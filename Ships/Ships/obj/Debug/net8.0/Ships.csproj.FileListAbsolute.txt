@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\Ships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\Ships.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\Ships.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\Ships.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\bin\Debug\net8.0\Ships.exe
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\bin\Debug\net8.0\Ships.deps.json
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\bin\Debug\net8.0\Ships.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\bin\Debug\net8.0\Ships.dll
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\bin\Debug\net8.0\Ships.pdb
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\Ships.dll
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\refint\Ships.dll
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\Ships.pdb
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\Ships.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Pulpit\Ships\Ships\obj\Debug\net8.0\ref\Ships.dll
